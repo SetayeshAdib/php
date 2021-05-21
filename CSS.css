@@ -1,0 +1,13 @@
+
+body{
+    background-color: papayawhip ; text-align: right; direction: rtl;
+}
+p{
+    color: black; font-size: 20px;
+}
+a {
+    text-decoration: none;
+}
+a.address{
+    font-size: 20px; lighting-color: bisque;
+}
